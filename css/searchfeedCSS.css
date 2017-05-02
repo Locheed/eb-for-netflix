@@ -1,0 +1,37 @@
+.EBN-ul-item {
+  padding: 0;
+}
+
+.li-item {
+  list-style: none;
+
+  margin-left: 10px;
+  line-height: 15px;
+  border-radius: 3px;
+}
+
+.li-item:nth-child(1), .li-item:nth-child(124), .li-item:nth-child(214), .li-item:nth-child(794), .li-item:nth-child(1059), .li-item:nth-child(1162), .li-item:nth-child(1312),
+.li-item:nth-child(1642), .li-item:nth-child(1673), .li-item:nth-child(1845), .li-item:nth-child(1861), .li-item:nth-child(1867), .li-item:nth-child(1881),
+.li-item:nth-child(2600), .li-item:nth-child(2603), .li-item:nth-child(2652), .li-item:nth-child(2721), .li-item:nth-child(2824), .li-item:nth-child(3237),
+.li-item:nth-child(3294), .li-item:nth-child(3341), .li-item:nth-child(3464), .li-item:nth-child(3565) {
+  border-bottom: 2px solid #E50914;
+  margin-top: 10px;
+  font-size: 1.3em;
+  font-weight: 700;
+  pointer-events: none;
+  pointer-events: none;
+  border-radius: 0;
+}
+.search-item {
+  font-size: .6em;
+  margin: 0;
+  padding: 4px;
+}
+
+.li-item:hover {
+  background-color: #E50914;
+}
+
+.hidden {
+  display: none;
+}

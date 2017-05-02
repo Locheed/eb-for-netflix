@@ -1,0 +1,1007 @@
+{
+  "menu":[{
+          "browse":"Extended Browse"
+        }],
+  "mains":[{
+        "name":"Action & Adventure",
+        "url":"http://www.netflix.com/browse/genre/1365",
+        "subs":[{
+            "name":"Asian Action Movies",
+            "url":"http://www.netflix.com/browse/genre/77232"
+          },
+          {
+            "name":"Classic Action & Adventure",
+            "url":"http://www.netflix.com/browse/genre/46576"
+          },
+          {
+            "name":"Action Comedies",
+            "url":"http://www.netflix.com/browse/genre/43040"
+          },
+          {
+            "name":"Action Thrillers",
+            "url":"http://www.netflix.com/browse/genre/43048"
+          },
+          {
+            "name":"Adventures",
+            "url":"http://www.netflix.com/browse/genre/7442"
+          },
+          {
+            "name":"Comic Book and Superheroes Movies",
+            "url":"http://www.netflix.com/browse/genre/10118"
+          },
+          {
+            "name":"Westerns",
+            "url":"http://www.netflix.com/browse/genre/7700"
+          },
+          {
+            "name":"Spy Action & Adventure",
+            "url":"http://www.netflix.com/browse/genre/10702"
+          },
+          {
+            "name":"Crime Action & Adventure",
+            "url":"http://www.netflix.com/browse/genre/9584"
+          },
+          {
+            "name":"Foreign Action & Adventure",
+            "url":"http://www.netflix.com/browse/genre/11828"
+          },
+          {
+            "name":"Martial Arts Movies",
+            "url":"http://www.netflix.com/browse/genre/8985"
+          },
+          {
+            "name":"Military Action & Adventure",
+            "url":"http://www.netflix.com/browse/genre/2125"
+          }
+        ]
+      },
+      {
+        "name":"Anime",
+        "url":"http://www.netflix.com/browse/genre/7424",
+        "subs":[{
+            "name":"Adult Animation",
+            "url":"http://www.netflix.com/browse/genre/11881"
+          },
+          {
+            "name":"Anime Action",
+            "url":"http://www.netflix.com/browse/genre/2653"
+          },
+          {
+            "name":"Anime Comedies",
+            "url":"http://www.netflix.com/browse/genre/9302"
+          },
+          {
+            "name":"Anime Dramas",
+            "url":"http://www.netflix.com/browse/genre/452"
+          },
+          {
+            "name":"Anime Features",
+            "url":"http://www.netflix.com/browse/genre/3063"
+          },
+          {
+            "name":"Anime Sci-Fi",
+            "url":"http://www.netflix.com/browse/genre/2729"
+          },
+          {
+            "name":"Anime Horror",
+            "url":"http://www.netflix.com/browse/genre/10695"
+          },
+          {
+            "name":"Anime Fantasy",
+            "url":"http://www.netflix.com/browse/genre/11146"
+          },
+          {
+            "name":"Anime Series",
+            "url":"http://www.netflix.com/browse/genre/6721"
+          }
+        ]
+      },
+      {
+        "name":"Children & Family Movies",
+        "url":"http://www.netflix.com/browse/genre/783",
+        "subs":[{
+            "name":"Movies for ages 0 to 2",
+            "url":"http://www.netflix.com/browse/genre/6796"
+          },
+          {
+            "name":"Movies for ages 2 to 4",
+            "url":"http://www.netflix.com/browse/genre/6218"
+          },
+          {
+            "name":"Movies for ages 5 to 7",
+            "url":"http://www.netflix.com/browse/genre/5455"
+          },
+          {
+            "name":"Movies for ages 8 to 10",
+            "url":"http://www.netflix.com/browse/genre/561"
+          },
+          {
+            "name":"Movies for ages 11 to 12",
+            "url":"http://www.netflix.com/browse/genre/6962"
+          },
+          {
+            "name":"Education for Kids",
+            "url":"http://www.netflix.com/browse/genre/10659"
+          },
+          {
+            "name":"Disney",
+            "url":"http://www.netflix.com/browse/genre/67673"
+          },
+          {
+            "name":"Movies based on children's books",
+            "url":"http://www.netflix.com/browse/genre/10056"
+          },
+          {
+            "name":"Family Features",
+            "url":"http://www.netflix.com/browse/genre/51056"
+          },
+          {
+            "name":"TV Cartoons",
+            "url":"http://www.netflix.com/browse/genre/11177"
+          },
+          {
+            "name":"Kids' TV",
+            "url":"http://www.netflix.com/browse/genre/27346"
+          },
+          {
+            "name":"Kids Music",
+            "url":"http://www.netflix.com/browse/genre/52843"
+          },
+          {
+            "name":"Animal Tales",
+            "url":"http://www.netflix.com/browse/genre/5507"
+          }
+        ]
+      },
+      {
+        "name":"Classic Movies",
+        "url":"http://www.netflix.com/browse/genre/31574",
+        "subs":[{
+            "name":"Classic Comedies",
+            "url":"http://www.netflix.com/browse/genre/31694"
+          },
+          {
+            "name":"Classic Dramas",
+            "url":"http://www.netflix.com/browse/genre/29809"
+          },
+          {
+            "name":"Classic Sci-fi & Fantasy",
+            "url":"http://www.netflix.com/browse/genre/47147"
+          },
+          {
+            "name":"Classic Thrillers",
+            "url":"http://www.netflix.com/browse/genre/46588"
+          },
+          {
+            "name":"Film Noir",
+            "url":"http://www.netflix.com/browse/genre/7687"
+          },
+          {
+            "name":"Classic War Movies",
+            "url":"http://www.netflix.com/browse/genre/48744"
+          },
+          {
+            "name":"Epics",
+            "url":"http://www.netflix.com/browse/genre/52858"
+          },
+          {
+            "name":"Classic Foreign Movies",
+            "url":"http://www.netflix.com/browse/genre/32473"
+          },
+          {
+            "name":"Silent Movies",
+            "url":"http://www.netflix.com/browse/genre/53310"
+          },
+          {
+            "name":"Classic Westerns",
+            "url":"http://www.netflix.com/browse/genre/47465"
+          }
+        ]
+      },
+      {
+        "name":"Comedies",
+        "url":"http://www.netflix.com/browse/genre/6548",
+        "subs":[{
+            "name":"Dark Comedies",
+            "url":"http://www.netflix.com/browse/genre/869"
+          },
+          {
+            "name":"Foreign Comedies",
+            "url":"http://www.netflix.com/browse/genre/4426"
+          },
+          {
+            "name":"Late Night Comedies",
+            "url":"http://www.netflix.com/browse/genre/1402"
+          },
+          {
+            "name":"Mockumentaries",
+            "url":"http://www.netflix.com/browse/genre/26"
+          },
+          {
+            "name":"Political Comedies",
+            "url":"http://www.netflix.com/browse/genre/2700"
+          },
+          {
+            "name":"Screwball Comedies",
+            "url":"http://www.netflix.com/browse/genre/9702"
+          },
+          {
+            "name":"Sport Comedies",
+            "url":"http://www.netflix.com/browse/genre/5286"
+          },
+          {
+            "name":"Stand-up Comedies",
+            "url":"http://www.netflix.com/browse/genre/11559"
+          },
+          {
+            "name":"Teen Comedies",
+            "url":"http://www.netflix.com/browse/genre/3519"
+          },
+          {
+            "name":"Satires",
+            "url":"http://www.netflix.com/browse/genre/4922"
+          },
+          {
+            "name":"Romantic Comedies",
+            "url":"http://www.netflix.com/browse/genre/5475"
+          },
+          {
+            "name":"Slapstick Comedies",
+            "url":"http://www.netflix.com/browse/genre/10256"
+          }
+        ]
+      },
+      {
+        "name":"Cult Movies",
+        "url":"http://www.netflix.com/browse/genre/7627",
+        "subs":[{
+            "name":"B-Horror Movies",
+            "url":"http://www.netflix.com/browse/genre/8195"
+          },
+          {
+            "name":"Campy Movies",
+            "url":"http://www.netflix.com/browse/genre/1252"
+          },
+          {
+            "name":"Cult Horror Movies",
+            "url":"http://www.netflix.com/browse/genre/10944"
+          },
+          {
+            "name":"Cult Sci-Fi & Fantasy",
+            "url":"http://www.netflix.com/browse/genre/4734"
+          },
+          {
+            "name":"Cult Comedies",
+            "url":"http://www.netflix.com/browse/genre/9434"
+          }
+        ]
+      },
+      {
+        "name":"Documentaries",
+        "url":"http://www.netflix.com/browse/genre/6839",
+        "subs":[{
+            "name":"Biographical Documentaries",
+            "url":"http://www.netflix.com/browse/genre/3652"
+          },
+          {
+            "name":"Crime Documentaries",
+            "url":"http://www.netflix.com/browse/genre/9875"
+          },
+          {
+            "name":"Foreign Documentaries",
+            "url":"http://www.netflix.com/browse/genre/5161"
+          },
+          {
+            "name":"Historical Documentaries",
+            "url":"http://www.netflix.com/browse/genre/5349"
+          },
+          {
+            "name":"Military Documentaries",
+            "url":"http://www.netflix.com/browse/genre/4006"
+          },
+          {
+            "name":"Sport Documentaries",
+            "url":"http://www.netflix.com/browse/genre/180"
+          },
+          {
+            "name":"Music & Concert Documentaries",
+            "url":"http://www.netflix.com/browse/genre/90361"
+          },
+          {
+            "name":"Travel & Adventure Documentaries",
+            "url":"http://www.netflix.com/browse/genre/1159"
+          },
+          {
+            "name":"Political Documentaries",
+            "url":"http://www.netflix.com/browse/genre/7018"
+          },
+          {
+            "name":"Religious Documentaries",
+            "url":"http://www.netflix.com/browse/genre/10005"
+          },
+          {
+            "name":"Science & Nature Documentaries",
+            "url":"http://www.netflix.com/browse/genre/2595"
+          },
+          {
+            "name":"Social & Cultural Documentaries",
+            "url":"http://www.netflix.com/browse/genre/3675"
+          }
+        ]
+      },
+      {
+        "name":"Dramas",
+        "url":"http://www.netflix.com/browse/genre/5763",
+        "subs":[{
+            "name":"Biographical Dramas",
+            "url":"http://www.netflix.com/browse/genre/3179"
+          },
+          {
+            "name":"Classic Dramas",
+            "url":"http://www.netflix.com/browse/genre/29809"
+          },
+          {
+            "name":"Courtroom Dramas",
+            "url":"http://www.netflix.com/browse/genre/2748"
+          },
+          {
+            "name":"Crime Dramas",
+            "url":"http://www.netflix.com/browse/genre/6889"
+          },
+          {
+            "name":"Dramas based on Books",
+            "url":"http://www.netflix.com/browse/genre/4961"
+          },
+          {
+            "name":"Dramas based on real life",
+            "url":"http://www.netflix.com/browse/genre/3653"
+          },
+          {
+            "name":"Tearjerkers",
+            "url":"http://www.netflix.com/browse/genre/6384"
+          },
+          {
+            "name":"Foreign Dramas",
+            "url":"http://www.netflix.com/browse/genre/2150"
+          },
+          {
+            "name":"Sports Dramas",
+            "url":"http://www.netflix.com/browse/genre/7243"
+          },
+          {
+            "name":"Gay & Lesbian Dramas",
+            "url":"http://www.netflix.com/browse/genre/500"
+          },
+          {
+            "name":"Independent Dramas",
+            "url":"http://www.netflix.com/browse/genre/384"
+          },
+          {
+            "name":"Teen Dramas",
+            "url":"http://www.netflix.com/browse/genre/9299"
+          },
+          {
+            "name":"Military Dramas",
+            "url":"http://www.netflix.com/browse/genre/11"
+          },
+          {
+            "name":"Period Dramas",
+            "url":"http://www.netflix.com/browse/genre/12123"
+          },
+          {
+            "name":"Political Dramas",
+            "url":"http://www.netflix.com/browse/genre/6616"
+          },
+          {
+            "name":"Romantic Dramas",
+            "url":"http://www.netflix.com/browse/genre/1255"
+          },
+          {
+            "name":"Showbiz Dramas",
+            "url":"http://www.netflix.com/browse/genre/5012"
+          },
+          {
+            "name":"Social Issues Drama",
+            "url":"http://www.netflix.com/browse/genre/3947"
+          }
+        ]
+      },
+      {
+        "name":"Faith & Spirituality",
+        "url":"http://www.netflix.com/browse/genre/26835",
+        "subs":[{
+            "name":"Faith & Spirituality Movies",
+            "url":"http://www.netflix.com/browse/genre/52804"
+          },
+          {
+            "name":"Spiritual Documentaries",
+            "url":"http://www.netflix.com/browse/genre/2760"
+          },
+          {
+            "name":"Kids Faith & Spirituality",
+            "url":"http://www.netflix.com/browse/genre/751423"
+          }
+        ]
+      },
+      {
+        "name":"Foreign Movies",
+        "url":"http://www.netflix.com/browse/genre/7462",
+        "subs":[{
+            "name":"Art House Movies",
+            "url":"http://www.netflix.com/browse/genre/29764"
+          },
+          {
+            "name":"Foreign Action & Adventure",
+            "url":"http://www.netflix.com/browse/genre/11828"
+          },
+          {
+            "name":"Classic Foreign Movies",
+            "url":"http://www.netflix.com/browse/genre/32473"
+          },
+          {
+            "name":"Foreign Comedies",
+            "url":"http://www.netflix.com/browse/genre/4426"
+          },
+          {
+            "name":"Foreign Documentaries",
+            "url":"http://www.netflix.com/browse/genre/5161"
+          },
+          {
+            "name":"Foreign Dramas",
+            "url":"http://www.netflix.com/browse/genre/2150"
+          },
+          {
+            "name":"Foreign Gay & Lesbian Movies",
+            "url":"http://www.netflix.com/browse/genre/8243"
+          },
+          {
+            "name":"Foreign Horror Movies",
+            "url":"http://www.netflix.com/browse/genre/8654"
+          },
+          {
+            "name":"Foreign Sci-Fi & Fantasy",
+            "url":"http://www.netflix.com/browse/genre/6485"
+          },
+          {
+            "name":"Foreign Thrillers",
+            "url":"http://www.netflix.com/browse/genre/10306"
+          },
+          {
+            "name":"Romantic Foreign Movies",
+            "url":"http://www.netflix.com/browse/genre/7153"
+          }
+        ]
+      },
+      {
+        "name":"Foreign Movies by Country",
+        "url":"http://www.netflix.com/browse/genre/7462",
+        "subs":[{
+            "name":"African Movies",
+            "url":"http://www.netflix.com/browse/genre/3761"
+          },
+          {
+            "name":"Australian Movies",
+            "url":"http://www.netflix.com/browse/genre/5230"
+          },
+          {
+            "name":"Belgian Movies",
+            "url":"http://www.netflix.com/browse/genre/262"
+          },
+          {
+            "name":"Korean Movies",
+            "url":"http://www.netflix.com/browse/genre/5685"
+          },
+          {
+            "name":"Latin American Movies",
+            "url":"http://www.netflix.com/browse/genre/1613"
+          },
+          {
+            "name":"Middle Eastern Movies",
+            "url":"http://www.netflix.com/browse/genre/5875"
+          },
+          {
+            "name":"New Zealand Movies",
+            "url":"http://www.netflix.com/browse/genre/63782"
+          },
+          {
+            "name":"Russian Movies",
+            "url":"http://www.netflix.com/browse/genre/11567"
+          },
+          {
+            "name":"Scandinavian Movies",
+            "url":"http://www.netflix.com/browse/genre/9292"
+          },
+          {
+            "name":"Southeast Asian Movies",
+            "url":"http://www.netflix.com/browse/genre/9196"
+          },
+          {
+            "name":"Spanish Movies",
+            "url":"http://www.netflix.com/browse/genre/58741"
+          },
+          {
+            "name":"Greek Movies",
+            "url":"http://www.netflix.com/browse/genre/61115"
+          },
+          {
+            "name":"German Movies",
+            "url":"http://www.netflix.com/browse/genre/58886"
+          },
+          {
+            "name":"French Movies",
+            "url":"http://www.netflix.com/browse/genre/58807"
+          },
+          {
+            "name":"Eastern European Movies",
+            "url":"http://www.netflix.com/browse/genre/5254"
+          },
+          {
+            "name":"Dutch Movies",
+            "url":"http://www.netflix.com/browse/genre/10606"
+          },
+          {
+            "name":"Irish Movies",
+            "url":"http://www.netflix.com/browse/genre/58750"
+          },
+          {
+            "name":"Japanese Movies",
+            "url":"http://www.netflix.com/browse/genre/10398"
+          },
+          {
+            "name":"Italian Movies",
+            "url":"http://www.netflix.com/browse/genre/8221"
+          },
+          {
+            "name":"Indian Movies",
+            "url":"http://www.netflix.com/browse/genre/10463"
+          },
+          {
+            "name":"Chinese Movies",
+            "url":"http://www.netflix.com/browse/genre/3960"
+          },
+          {
+            "name":"British Movies",
+            "url":"http://www.netflix.com/browse/genre/10757"
+          }
+        ]
+      },
+      {
+        "name":"Gay & Lesbian Movies",
+        "url":"http://www.netflix.com/browse/genre/5977",
+        "subs":[{
+            "name":"Gay & Lesbian comedies",
+            "url":"http://www.netflix.com/browse/genre/7120"
+          },
+          {
+            "name":"Gay & Lesbian Dramas",
+            "url":"http://www.netflix.com/browse/genre/500"
+          },
+          {
+            "name":"Romantic Gay & Lesbian Movies",
+            "url":"http://www.netflix.com/browse/genre/3329"
+          },
+          {
+            "name":"Foreign Gay & Lesbian Movies",
+            "url":"http://www.netflix.com/browse/genre/8243"
+          },
+          {
+            "name":"Gay & Lesbian Documentaries",
+            "url":"http://www.netflix.com/browse/genre/4720"
+          },
+          {
+            "name":"Gay & Lesbian TV Shows",
+            "url":"http://www.netflix.com/browse/genre/65263"
+          }
+        ]
+      },
+      {
+        "name":"Horror Movies",
+        "url":"http://www.netflix.com/browse/genre/8711",
+        "subs":[{
+            "name":"B-Horror Movies",
+            "url":"http://www.netflix.com/browse/genre/8195"
+          },
+          {
+            "name":"Creature Features",
+            "url":"http://www.netflix.com/browse/genre/6895"
+          },
+          {
+            "name":"Cult Horror Movies",
+            "url":"http://www.netflix.com/browse/genre/10944"
+          },
+          {
+            "name":"Deep Sea Horror Movies",
+            "url":"http://www.netflix.com/browse/genre/45028"
+          },
+          {
+            "name":"Foreign Horror Movies",
+            "url":"http://www.netflix.com/browse/genre/8654"
+          },
+          {
+            "name":"Horror Comedy",
+            "url":"http://www.netflix.com/browse/genre/89585"
+          },
+          {
+            "name":"Monster Movies",
+            "url":"http://www.netflix.com/browse/genre/947"
+          },
+          {
+            "name":"Slasher and Serial Killer Movies",
+            "url":"http://www.netflix.com/browse/genre/8646"
+          },
+          {
+            "name":"Supernatural Horror Movies",
+            "url":"http://www.netflix.com/browse/genre/42023"
+          },
+          {
+            "name":"Teen Screams",
+            "url":"http://www.netflix.com/browse/genre/52147"
+          },
+          {
+            "name":"Vampire Horror Movies",
+            "url":"http://www.netflix.com/browse/genre/75804"
+          },
+          {
+            "name":"Werewolf Horror Movies",
+            "url":"http://www.netflix.com/browse/genre/75930"
+          },
+          {
+            "name":"Zombie Horror Movies",
+            "url":"http://www.netflix.com/browse/genre/75405"
+          },
+          {
+            "name":"Satanic Stories",
+            "url":"http://www.netflix.com/browse/genre/6998"
+          }
+        ]
+      },
+      {
+        "name":"Independent Movies",
+        "url":"http://www.netflix.com/browse/genre/7077",
+        "subs":[{
+            "name":"Experimental Movies",
+            "url":"http://www.netflix.com/browse/genre/11079"
+          },
+          {
+            "name":"Independent Action & Adventure",
+            "url":"http://www.netflix.com/browse/genre/11804"
+          },
+          {
+            "name":"Independent Thrillers",
+            "url":"http://www.netflix.com/browse/genre/3269"
+          },
+          {
+            "name":"Romantic Independent Movies",
+            "url":"http://www.netflix.com/browse/genre/9916"
+          },
+          {
+            "name":"Independent Comedies",
+            "url":"http://www.netflix.com/browse/genre/4195"
+          },
+          {
+            "name":"Independent Dramas",
+            "url":"http://www.netflix.com/browse/genre/384"
+          }
+        ]
+      },
+      {
+        "name":"Music",
+        "url":"http://www.netflix.com/browse/genre/1701",
+        "subs":[{
+            "name":"Kids Music",
+            "url":"http://www.netflix.com/browse/genre/52843"
+          },
+          {
+            "name":"Country & Western/Folk",
+            "url":"http://www.netflix.com/browse/genre/1105"
+          },
+          {
+            "name":"Jazz & Easy Listening",
+            "url":"http://www.netflix.com/browse/genre/10271"
+          },
+          {
+            "name":"Latin Music",
+            "url":"http://www.netflix.com/browse/genre/10741"
+          },
+          {
+            "name":"Urban & Dance Concerts",
+            "url":"http://www.netflix.com/browse/genre/9472"
+          },
+          {
+            "name":"World Music Concerts",
+            "url":"http://www.netflix.com/browse/genre/2856"
+          },
+          {
+            "name":"Rock & Pop Concerts",
+            "url":"http://www.netflix.com/browse/genre/3278"
+          }
+        ]
+      },
+      {
+        "name":"Musicals",
+        "url":"http://www.netflix.com/browse/genre/13335",
+        "subs":[{
+            "name":"Classic Musicals",
+            "url":"http://www.netflix.com/browse/genre/32392"
+          },
+          {
+            "name":"Disney Musicals",
+            "url":"http://www.netflix.com/browse/genre/59433"
+          },
+          {
+            "name":"Showbiz Musicals",
+            "url":"http://www.netflix.com/browse/genre/13573"
+          },
+          {
+            "name":"Stage Musicals",
+            "url":"http://www.netflix.com/browse/genre/55774"
+          }
+        ]
+      },
+      {
+        "name":"Romantic Movies",
+        "url":"http://www.netflix.com/browse/genre/8883",
+        "subs":[{
+            "name":"Romantic Favorites",
+            "url":"http://www.netflix.com/browse/genre/502675"
+          },
+          {
+            "name":"Quirky Romance",
+            "url":"http://www.netflix.com/browse/genre/36103"
+          },
+          {
+            "name":"Romantic Independent Movies",
+            "url":"http://www.netflix.com/browse/genre/9916"
+          },
+          {
+            "name":"Romantic Foreign Movies",
+            "url":"http://www.netflix.com/browse/genre/7153"
+          },
+          {
+            "name":"Romantic Dramas",
+            "url":"http://www.netflix.com/browse/genre/1255"
+          },
+          {
+            "name":"Steamy Romantic Movies",
+            "url":"http://www.netflix.com/browse/genre/35800"
+          },
+          {
+            "name":"Classic Romantic Movies",
+            "url":"http://www.netflix.com/browse/genre/31273"
+          },
+          {
+            "name":"Romantic Comedies",
+            "url":"http://www.netflix.com/browse/genre/5475"
+          }
+        ]
+      },
+      {
+        "name":"Sci-Fi & Fantasy",
+        "url":"http://www.netflix.com/browse/genre/1492",
+        "subs":[{
+            "name":"Action Sci-Fi & Fantasy",
+            "url":"http://www.netflix.com/browse/genre/1568"
+          },
+          {
+            "name":"Alien Sci-Fi",
+            "url":"http://www.netflix.com/browse/genre/3327"
+          },
+          {
+            "name":"Classic Sci-Fi & Fantasy",
+            "url":"http://www.netflix.com/browse/genre/47147"
+          },
+          {
+            "name":"Cult Sci-Fi & Fantasy",
+            "url":"http://www.netflix.com/browse/genre/4734"
+          },
+          {
+            "name":"Fantasy Movies",
+            "url":"http://www.netflix.com/browse/genre/9744"
+          },
+          {
+            "name":"Sci-Fi Adventure",
+            "url":"http://www.netflix.com/browse/genre/6926"
+          },
+          {
+            "name":"Sci-Fi Dramas",
+            "url":"http://www.netflix.com/browse/genre/3916"
+          },
+          {
+            "name":"Sci-Fi Horror Movies",
+            "url":"http://www.netflix.com/browse/genre/1694"
+          },
+          {
+            "name":"Sci-Fi Thrillers",
+            "url":"http://www.netflix.com/browse/genre/11014"
+          },
+          {
+            "name":"Foreign Sci-Fi & Fantasy",
+            "url":"http://www.netflix.com/browse/genre/6485"
+          }
+        ]
+      },
+      {
+        "name":"Sports Movies",
+        "url":"http://www.netflix.com/browse/genre/4370",
+        "subs":[{
+            "name":"Sports Comedies",
+            "url":"http://www.netflix.com/browse/genre/5286"
+          },
+          {
+            "name":"Sports Documentaries",
+            "url":"http://www.netflix.com/browse/genre/180"
+          },
+          {
+            "name":"Sports Dramas",
+            "url":"http://www.netflix.com/browse/genre/7243"
+          },
+          {
+            "name":"Baseball Movies",
+            "url":"http://www.netflix.com/browse/genre/12339"
+          },
+          {
+            "name":"Football Movies",
+            "url":"http://www.netflix.com/browse/genre/12803"
+          },
+          {
+            "name":"Boxing Movies",
+            "url":"http://www.netflix.com/browse/genre/12443"
+          },
+          {
+            "name":"Soccer Movies",
+            "url":"http://www.netflix.com/browse/genre/12549"
+          },
+          {
+            "name":"Martial Arts, Boxing & Wrestling",
+            "url":"http://www.netflix.com/browse/genre/6695"
+          },
+          {
+            "name":"Basketball Movies",
+            "url":"http://www.netflix.com/browse/genre/12762"
+          },
+          {
+            "name":"Sports & Fitness",
+            "url":"http://www.netflix.com/browse/genre/9327"
+          }
+        ]
+      },
+      {
+        "name":"Thrillers",
+        "url":"http://www.netflix.com/browse/genre/8933",
+        "subs":[{
+            "name":"Action Thrillers",
+            "url":"http://www.netflix.com/browse/genre/43048"
+          },
+          {
+            "name":"Classic Thrillers",
+            "url":"http://www.netflix.com/browse/genre/46588"
+          },
+          {
+            "name":"Crime Thrillers",
+            "url":"http://www.netflix.com/browse/genre/10499"
+          },
+          {
+            "name":"Foreign Thrillers",
+            "url":"http://www.netflix.com/browse/genre/10306"
+          },
+          {
+            "name":"Independent Thrillers",
+            "url":"http://www.netflix.com/browse/genre/3269"
+          },
+          {
+            "name":"Gangster Movies",
+            "url":"http://www.netflix.com/browse/genre/31851"
+          },
+          {
+            "name":"Psychological Thrillers",
+            "url":"http://www.netflix.com/browse/genre/5505"
+          },
+          {
+            "name":"Political Thrillers",
+            "url":"http://www.netflix.com/browse/genre/10504"
+          },
+          {
+            "name":"Mysteries",
+            "url":"http://www.netflix.com/browse/genre/9994"
+          },
+          {
+            "name":"Sci-Fi Thrillers",
+            "url":"http://www.netflix.com/browse/genre/11014"
+          },
+          {
+            "name":"Spy Thrillers",
+            "url":"http://www.netflix.com/browse/genre/9147"
+          },
+          {
+            "name":"Steamy Thrillers",
+            "url":"http://www.netflix.com/browse/genre/972"
+          },
+          {
+            "name":"Supernatural Thrillers",
+            "url":"http://www.netflix.com/browse/genre/11140"
+          }
+        ]
+      },
+      {
+        "name":"TV Shows",
+        "url":"http://www.netflix.com/browse/genre/83",
+        "subs":[{
+            "name":"British TV Shows",
+            "url":"http://www.netflix.com/browse/genre/52117"
+          },
+          {
+            "name":"Classic TV Shows",
+            "url":"http://www.netflix.com/browse/genre/46553"
+          },
+          {
+            "name":"Crime TV Shows",
+            "url":"http://www.netflix.com/browse/genre/26146"
+          },
+          {
+            "name":"Cult TV Shows",
+            "url":"http://www.netflix.com/browse/genre/74652"
+          },
+          {
+            "name":"Food & Travel TV",
+            "url":"http://www.netflix.com/browse/genre/72436"
+          },
+          {
+            "name":"Kid's TV",
+            "url":"http://www.netflix.com/browse/genre/27346"
+          },
+          {
+            "name":"Korean TV Shows",
+            "url":"http://www.netflix.com/browse/genre/67879"
+          },
+          {
+            "name":"Miniseries",
+            "url":"http://www.netflix.com/browse/genre/4814"
+          },
+          {
+            "name":"Military TV Shows",
+            "url":"http://www.netflix.com/browse/genre/25804"
+          },
+          {
+            "name":"Science & Nature TV",
+            "url":"http://www.netflix.com/browse/genre/52780"
+          },
+          {
+            "name":"TV Action & Adventure",
+            "url":"http://www.netflix.com/browse/genre/10673"
+          },
+          {
+            "name":"TV Comedies",
+            "url":"http://www.netflix.com/browse/genre/10375"
+          },
+          {
+            "name":"TV Documentaries",
+            "url":"http://www.netflix.com/browse/genre/10105"
+          },
+          {
+            "name":"TV Dramas",
+            "url":"http://www.netflix.com/browse/genre/11714"
+          },
+          {
+            "name":"TV Horror",
+            "url":"http://www.netflix.com/browse/genre/83059"
+          },
+          {
+            "name":"TV Mysteries",
+            "url":"http://www.netflix.com/browse/genre/4366"
+          },
+          {
+            "name":"TV Sci-Fi & Fantasy",
+            "url":"http://www.netflix.com/browse/genre/1372"
+          },
+          {
+            "name":"Reality TV",
+            "url":"http://www.netflix.com/browse/genre/9833"
+          },
+          {
+            "name":"Teen TV Shows",
+            "url":"http://www.netflix.com/browse/genre/60951"
+          }
+        ]
+      }
+    ]
+}

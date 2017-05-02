@@ -16,7 +16,7 @@ If you want your language being supported, please fork this project or copy a en
 
 
 -------
-![](http://i65.tinypic.com/iyzzls.jpg?raw=true)
+![](http://i67.tinypic.com/wjht6t.png?raw=true)
 
 ### Changelog:
 

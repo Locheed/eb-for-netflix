@@ -1,6 +1,6 @@
 # Extended Browse for Netflix (EBN)
 
-***View extension on Chrome web store: Coming soon...***
+[![Available on Chrome web store](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_340x96.png)](https://chrome.google.com/webstore/detail/extended-browse-for-netfl/oajemdopahhgfbnikcogidfnaaeglfhn)
 
 This is a Chrome extension to display better browsing with a hidden categories of a Netflix. These categories isn't available with normal Netflix UI.
 

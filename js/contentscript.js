@@ -14,28 +14,29 @@ const isMainPage = setInterval(function() {
         .getElementById("appMountPoint")
         .querySelector("[lang]").lang;
       //.closest("[lang]");
-      console.log("Language check shows: " + checkLang);
+      console.log('Language check shows: ' + checkLang);
 
-      switch (checkLang) {
-        case "fi-FI":
-          language = "finnish";
-          break;
-        default:
-          language = "english";
-      }
+      // new language selection
+      fetchJSONFile(chrome.runtime.getURL('/resources/_languages.json'), function (data) {
+        if (data[checkLang] == undefined) {
+          language = data.default;
+          console.log('default language');
+        } else {
+          language = data[checkLang];
+          console.log('Language found');
+        }
+
+        // Fetch JSON data.
+        fetchJSONFile(chrome.runtime.getURL('/resources/' + language + '.json'), function (data) {
+          // do something with your data
+          console.log('Language selected: ' + language);
+          //console.log(data); //Fetched data for debug purpose.
+
+          createHiddenGem(data);
+          populateHiddenGem(data);
+        });
+      });
     }
-    // Fetch JSON data.
-    fetchJSONFile(
-      chrome.runtime.getURL("/resources/" + language + ".json"),
-      function(data) {
-        // do something with your data
-        console.log("Language selected: " + language);
-        //console.log(data); //Fetched data for debug purpose.
-
-        createHiddenGem(data);
-        populateHiddenGem(data);
-      }
-    );
   }
 }, 1000);
 
@@ -111,9 +112,19 @@ function populateHiddenGem(data) {
     dataPlacement.appendChild(ul);
     ul.appendChild(li);
 
-    let titles = document.createElement("a");
-    titles.href = data.mains[i].url;
-    titles.textContent = data.mains[i].name;
+    let titles;
+
+    console.log(data.mains[i].name, data.mains[i].nourl);
+
+    if (data.mains[i].nourl == true) {
+      titles = document.createElement('div');
+      titles.textContent = data.mains[i].name;
+    } else {
+      titles = document.createElement('a');
+      titles.href = data.mains[i].url;
+      titles.textContent = data.mains[i].name;
+    }
+
     li.appendChild(titles);
 
     for (let j = 0; j < data.mains[i].subs.length; j++) {

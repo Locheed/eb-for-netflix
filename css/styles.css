@@ -171,6 +171,11 @@ ul:nth-child(18).extBrowse-ul {
   color: #e50914;
 }
 
+.mainTitle div {
+  font-size: 0.8em;
+  color: #e50914;
+}
+
 .subTitle {
   font-family: "Raleway-regular";
   font-size: 1rem;

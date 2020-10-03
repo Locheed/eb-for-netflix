@@ -3,7 +3,7 @@
 
   "name": "Extended Browse for Netflix",
   "description": "Show Netflix hidden sub-categories.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "Mika Vesasto",
 
   "background": {

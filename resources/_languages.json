@@ -1,5 +1,7 @@
 {
   "default": "english",
   "fi-FI": "finnish",
-  "de-DE": "german"
+  "fi-DE": "finnish",
+  "de-DE": "german",
+  "de-FI": "german"
 }

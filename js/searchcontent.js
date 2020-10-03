@@ -52,7 +52,7 @@ function startListeningSearch() {
         else {
           feedItems[i].style.display = "none";
         }
-      
+
     };
 
 

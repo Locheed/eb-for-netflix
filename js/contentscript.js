@@ -1,12 +1,14 @@
 "use strict";
 
-const versio = "1.0";
+const versio = "1.1.1";
 let language = "english";
 const isMainPage = setInterval(function() {
   if (!document.getElementsByClassName("profiles-gate-container")[0]) {
     chrome.runtime.sendMessage({ type: "showPageAction" });
     clearInterval(isMainPage);
     checkLanguage();
+  }
+}, 1000);
 
     // Check localization
     function checkLanguage() {
@@ -37,8 +39,7 @@ const isMainPage = setInterval(function() {
         });
       });
     }
-  }
-}, 1000);
+
 
 function createHiddenGem(data) {
   //Find placement for Extended Browse
@@ -114,7 +115,7 @@ function populateHiddenGem(data) {
 
     let titles;
 
-    console.log(data.mains[i].name, data.mains[i].nourl);
+    // console.log(data.mains[i].name, data.mains[i].nourl);
 
     if (data.mains[i].nourl == true) {
       titles = document.createElement('div');
